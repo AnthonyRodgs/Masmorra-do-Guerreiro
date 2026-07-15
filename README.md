@@ -18,11 +18,41 @@ This project was developed as part of my studies in Computer Science and has bee
 - Object-Oriented Programming
 
 # Screenshots
-<p align="center">
-  <img src="screenshots/main_menu.png" alt="Main Menu" width="500">
-</p>
 
+<details>
+  <summary><b> Main Menu</b> (Click to expand)</summary>
+  <p align="center">
+    <br>
+    <img src="screenshots/main_menu.png" alt="Main Menu" width="600">
+  </p>
+</details>
 
+<details>
+  <summary><b> Map & Tunnels</b> (Click to expand)</summary>
+  <p align="center">
+    <br>
+    <img src="screenshots/map.png" alt="Map" width="500">
+    <img src="screenshots/tunnels.png" alt="Tunnels" width="500">
+  </p>
+</details>
+
+<details>
+  <summary><b> Monsters & Combat Power</b> (Click to expand)</summary>
+  <p align="center">
+    <br>
+    <img src="screenshots/monsters.png" alt="Monsters" width="500">
+    <img src="screenshots/power_system.png" alt="Combat System" width="500">
+  </p>
+</details>
+
+<details>
+  <summary><b> Score UI</b> (Click to expand)</summary>
+  <p align="center">
+    <br>
+    <img src="screenshots/coin_system.png" alt="Coin System" width="500">
+    <img src="screenshots/score_interface.png" alt="Score UI" width="500">
+  </p>
+</details>
 
 # How to play
 
