@@ -19,7 +19,7 @@ This project was developed as part of my studies in Computer Science and has bee
 
 # Screenshots
 <p align="center">
-  <img src="screenshots/main_menu.png" alt="Main Menu" width="600">
+  <img src="screenshots/main_menu.png" alt="Main Menu" width="500">
 </p>
 
 
