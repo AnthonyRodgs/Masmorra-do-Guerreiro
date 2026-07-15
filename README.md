@@ -32,7 +32,7 @@ This project was developed as part of my studies in Computer Science and has bee
   <p align="center">
     <br>
     <img src="screenshots/map.png" alt="Map" width="500">
-    <img src="screenshots/tunnels.png" alt="Tunnels" width="500">
+    <img src="screenshots/tunnels.gif" alt="Tunnels" width="500">
   </p>
 </details>
 
@@ -40,8 +40,8 @@ This project was developed as part of my studies in Computer Science and has bee
   <summary><b> Monsters & Combat Power</b> (Click to expand)</summary>
   <p align="center">
     <br>
-    <img src="screenshots/monsters.png" alt="Monsters" width="500">
-    <img src="screenshots/power_system.png" alt="Combat System" width="500">
+    <img src="screenshots/monsters.gif" alt="Monsters" width="500">
+    <img src="screenshots/power_system.gif" alt="Combat System" width="500">
   </p>
 </details>
 
@@ -49,8 +49,8 @@ This project was developed as part of my studies in Computer Science and has bee
   <summary><b> Score UI</b> (Click to expand)</summary>
   <p align="center">
     <br>
-    <img src="screenshots/coin_system.png" alt="Coin System" width="500">
-    <img src="screenshots/score_interface.png" alt="Score UI" width="500">
+    <img src="screenshots/coin_system.gif" alt="Coin System" width="500">
+    <img src="screenshots/score_interface.gif" alt="Score UI" width="500">
   </p>
 </details>
 
