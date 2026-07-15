@@ -32,8 +32,8 @@ This project was developed as part of my studies in Computer Science and has bee
   <p align="center">
     <br>
     <img src="screenshots/map.png" alt="Map" width="500">
-    <img src="screenshots/tunnel_entrance.gif" alt="Tunnels Entrance" width="500">
-    <img src="screenshots/exit_tunnel.gif" alt="Exit Tunnels" width="500">
+    <img src="screenshots/tunnel_entrance.gif" alt="Tunnels Entrance" width="48%" style="margin-right: 2%;">
+    <img src="screenshots/exit_tunnel.gif" alt="Exit Tunnels" width="48%"">
   </p>
 </details>
 
