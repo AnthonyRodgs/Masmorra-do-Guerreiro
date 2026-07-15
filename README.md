@@ -18,7 +18,9 @@ This project was developed as part of my studies in Computer Science and has bee
 - Object-Oriented Programming
 
 # Screenshots
-
+<p align="center">
+  <img src="screenshots/main_menu.png" alt="Main Menu" width="600">
+</p>
 
 
 
